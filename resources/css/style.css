@@ -43,3 +43,15 @@ nav span {
   display: inline-block;
   padding: 20px 10px;
 }
+
+/*main secion*/
+
+.main {
+  padding-top: 69px;
+}
+
+.our-mission {
+  display: flex;
+  height: 700px;
+  background-image: url("../images/img-mission-background.jpg")
+}
