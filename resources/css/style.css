@@ -91,3 +91,34 @@ nav span {
 
 
 /*Tea of the month section*/
+
+#tea-of-the-month {
+  width: 1000px;
+  height: 700px;
+  margin: auto;
+  padding-top: 70px;
+}
+
+.tea-flex {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.products {
+  padding: 5px;
+}
+
+.products img {
+  height: 200px;
+  margin: 10px;
+  display: block;
+}
+
+.prodcuts span {
+  display: block;
+  font-weigth: bold;
+  text-align: center;
+  padding: 5px;
+
+}
