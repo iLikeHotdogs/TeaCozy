@@ -44,10 +44,6 @@ a {
   color: seashell;
 }
 
-a nav {
-  text-decoration: underline;
-}
-
 nav {
   text-align: right;
   flex-grow: 1;
@@ -66,7 +62,6 @@ nav span {
   width: 1200px;
   margin: auto;
 }
-
 
 #our-mission {
   height: 700px;
