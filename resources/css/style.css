@@ -145,29 +145,7 @@ nav span {
   padding-top: 5px;
 }
 
-.downtown {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  padding: 10px;
-  margin: 5px 20px;
-  opacity: 1;
-  background-color: black;
-  flex-basis: 280px;
-}
-
-.east-bayside {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  padding: 10px;
-  margin: 5px 20px;
-  opacity: 1;
-  background-color: black;
-  flex-basis: 280px;
-}
-
-.oakdale {
+.three_locations {
   display: flex;
   flex-direction: column;
   justify-content: center;
