@@ -14,13 +14,10 @@ div {
   display: block;
 }
 
-h2 {
-  display: block;
-}
-
-h2, h3, h4 {
+h2, h3, h4, h5 {
   margin: 0px;
   padding: 10px;
+  display: block;
 }
 
 
@@ -164,4 +161,5 @@ nav span {
 #copyright {
   display: flex;
   align-items: left;
+  padding-left: 20px;
 }
